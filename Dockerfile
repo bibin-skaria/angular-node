@@ -28,7 +28,7 @@ COPY . .
 EXPOSE 3003
 
 # Run app
-CMD pm2 start --no-daemon  processes.json
+CMD pm2 start --no-daemon  server.js 
 #CMD pm2  resurrect --no-daemon server.js
 
 # Bundle app source
