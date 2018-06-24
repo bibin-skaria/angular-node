@@ -1,1 +1,1 @@
-{"apps" : [{    "name"        : "RC",    "script"      : "server.js", "watch"       : true, "exec_mode" : "cluster" }]}
+{"apps" : [{    "name"        : "RC",    "script"      : "server.js", "exec_mode" : "cluster" }]}
